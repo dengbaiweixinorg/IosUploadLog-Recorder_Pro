@@ -1,0 +1,14 @@
+Command line invocation:
+    /Applications/Xcode_27.1.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/Recorder_Pro/Recorder_Pro/Recorder_Pro.xcworkspace
+
+Information about workspace "Recorder_Pro":
+    Schemes:
+        BaiweiSubscriptionKit
+        Pods-Recorder_Pro
+        Pods-Recorder_Pro_Test
+        Recorder_Pro
+        Recorder_Pro_Test
+        UMAPM
+        UMCommon
+        UMDevice
+
